@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "852105666615",
+    "firebase_url": "https://aarvicollbrator.firebaseio.com",
+    "project_id": "aarvicollbrator",
+    "storage_bucket": "aarvicollbrator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852105666615:android:8d11847957ae4ee3381fb2",
+        "android_client_info": {
+          "package_name": "ind.volvere.aarvicollaborator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852105666615-sf6dct3gcjh8m034r3jhh64m5vgngi7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ind.volvere.aarvicollaborator",
+            "certificate_hash": "7862c9c6b2c2a3b7020db16187ab21d6e530a9ab"
+          }
+        },
+        {
+          "client_id": "852105666615-rv0oe8kqc42kkednb5bkim774pgs6598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJAnWWsYbX2EqkIoyFqbJLUPSYQQb-Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852105666615-rv0oe8kqc42kkednb5bkim774pgs6598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
